@@ -18,3 +18,10 @@ cd my-first-pr
 git checkout -b my-change
 ```
 
+## Contact
+
+Questions or feedback about this practice repo? Reach out:
+
+- **Phone:** 0435 921 810
+- **Email:** farbod@grandarcade.com.au
+
